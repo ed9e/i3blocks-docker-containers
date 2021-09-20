@@ -16,4 +16,6 @@ Add to your `i3/config` file blocks:
      status_command i3blocks -c path-to-i3blocks-docker-containers/i3blocks3.conf
  }
 ```
+
+Replace `path-to-i3blocks-docker-containers` in both `i3blocks3.conf` and `i3blocks2.conf` files with path to cloned project. 
 Reload i3 config.
